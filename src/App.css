@@ -1,0 +1,11 @@
+/* App-specific styles */
+
+/* Smooth hover effects */
+button {
+  cursor: pointer;
+}
+
+a {
+  cursor: pointer;
+}
+
